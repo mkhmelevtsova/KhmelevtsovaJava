@@ -8,14 +8,16 @@ public class Main {
     private static String GroupNumber = "545A";
     private static String FullName = "Khmelevtsova Mariia Aleksadrovna";
     private static int VariantNumber = 15;
-    private static char[] Initials = {'K','M','A'};
+    private static String Initials =    "*   * **   **  **\n" +
+                                        "*  *  * * * * *  *\n" +
+                                        "***   *  *  * ****\n" +
+                                        "*  *  *     * *  *\n" +
+                                        "*   * *     * *  *\n";
 
     public static void main(String[] args) {
         System.out.println("Group: " + GroupNumber);
         System.out.println("Student: " + FullName);
         System.out.println("Variant: " + VariantNumber);
-        for (char initial: Initials) {
-            System.out.print(initial + " ");
-        }
+        System.out.println(Initials);
     }
 }
