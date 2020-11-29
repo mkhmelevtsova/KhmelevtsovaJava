@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+E:\XAI_notes\4\Crossplatform\Labs\Third\.metadata\.plugins\org.eclipse.jdt.core
+3215943556.index
+3445618690.index
+1160517443.index
+3545492562.index
