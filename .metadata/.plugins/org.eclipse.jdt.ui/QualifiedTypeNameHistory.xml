@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Loggers.Logger"/>
+    <fullyQualifiedTypeName name="Console.ConsoleHelper"/>
+    <fullyQualifiedTypeName name="Components.Light"/>
+    <fullyQualifiedTypeName name="Components.Dishwasher"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="Components.BaseComponent"/>
+    <fullyQualifiedTypeName name="Components.TV"/>
+    <fullyQualifiedTypeName name="Components.WashingMachine"/>
+    <fullyQualifiedTypeName name="Components.BreadMaker"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
